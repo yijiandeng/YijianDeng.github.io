@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "关于我"
+permalink: "/关于我/"
 layout: page
 ---
 
