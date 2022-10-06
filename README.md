@@ -28,7 +28,9 @@ Solicitor Yijian （James） Deng
 
 
 ## Certificates
+ - Australian Practising Certificate
+ ![certificate]()
 
+- Lawyer of the Supreme Court of NSW
 ![certificate](https://github.com/yijiandeng/yijiandeng.github.io/blob/master/Scan%20from%202022-08-03%2009_13_54%20PM.png)
-
 
