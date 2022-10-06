@@ -1,10 +1,10 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "澳洲法律笔记 AU Legal Notes"
+author: "邓益健 Yijian Deng"
+description: "Lawyer of the Supreme Court of New South Wales"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d %B, %Y"
 
 # Layout
 
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title:Home Change, icon:home}
+  - {file: "README.md", title:About me, incon:address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:dengyijian2012@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/yijian_deng"}
+  - {title: Work, icon: office, url: "https://www.rzlawyers.com.au"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
