@@ -7,6 +7,7 @@ layout: page
 ## 中文
 
 邓益健律师
+ - supports dark mode on macOS Mojave
 -业务范围：专注于家庭法律事务和中小企业法律事务。
 -澳大利亚执业律师
 -新南威尔士州最高法院律师
